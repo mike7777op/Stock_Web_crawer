@@ -1,8 +1,10 @@
+# -*- coding: utf-8 -*-
 import datetime
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from pandas_datareader import data
+
 
 #設定爬蟲股票代號
 # sid = '0050'
